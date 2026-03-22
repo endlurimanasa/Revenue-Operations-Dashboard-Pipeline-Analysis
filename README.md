@@ -1,5 +1,5 @@
 # Revenue-Operations-Dashboard-Pipeline-Analysis
-Revenue Operations Dashboard &amp; Pipeline Analysis
+End-to-end Revenue Operations analysis project including data modeling, KPI design, and dashboard development.
 
 This project analyzes a B2B sales pipeline to evaluate revenue performance, pipeline health, and sales efficiency.
 
